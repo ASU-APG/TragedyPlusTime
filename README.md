@@ -2,19 +2,20 @@
 
 <p align="center">
   <img
-    src="./sample_videos/architecture.png"
+    width="70%"
+    src="./assets/intro-pic.jpg"
   >
 </p>
 
-## Contributions
-- We curate W-Oops, an augmented video dataset, built upon Oops, containing high quality video level labels for the goal-directed as well as unintentional action.
-- We propose an attention mechanism based method that highlights relevant temporal regions of the video important to a classification task when inferring the goal-directed and unintentional action while also ensuring their temporal ordering.
--  Finally, we provide in-depth and comprehensive experimental analysis, which validates the effectiveness of our method compared to competitive weakly supervised action localization methods on W-Oops.
 
-## See it in  action!
 
-## Dataset
-https://drive.google.com/drive/folders/1yy8P208lJdD4dc7KXjA_GUAzimQX9C4n?usp=sharing
+Robustness in Sequential Data Workshop @ CVPR 2022
+
+
+Project Website: https://asu-apg.github.io/TragedyPlusTime/
+
+
+Dataset: https://drive.google.com/drive/folders/1yy8P208lJdD4dc7KXjA_GUAzimQX9C4n?usp=sharing
 
 ## Train Model
 ```
